@@ -84,3 +84,5 @@ if uploaded_file is not None:
         predicted_digit = np.argmax(prediction)
 
         st.success(f"Predicted Digit: {predicted_digit}")
+
+        # Updated by Nandhan
