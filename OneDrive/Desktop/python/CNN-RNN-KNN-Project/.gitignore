@@ -1,0 +1,4 @@
+tfenv/
+__pycache__/
+*.pyc
+knn_model.joblib
